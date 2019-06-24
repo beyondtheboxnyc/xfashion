@@ -75,8 +75,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "10px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -116,7 +116,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff185d!important"
+              "color": "#c40daa!important"
             }
           },
           "logo": {

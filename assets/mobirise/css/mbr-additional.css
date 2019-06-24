@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -462,7 +462,7 @@ section.form .container {
 #ext_menu-0 .navbar-caption {
   color: #ffffff;
   font-size: 10px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #ext_menu-0 .navbar-toggler {
   color: #ffffff;
@@ -517,7 +517,7 @@ section.form .container {
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #ff185d!important;
+  color: #c40daa!important;
 }
 #header1-b .mbr-section-title SPAN {
   font-size: 36px;
